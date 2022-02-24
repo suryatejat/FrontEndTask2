@@ -4,7 +4,7 @@
     font-family: 'Roboto Condensed', sans-serif;
 }
 body{
-    background-image: url("Data/bg.jpg");
+    background-image: url("../Data/bg.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
